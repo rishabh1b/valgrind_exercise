@@ -2,6 +2,10 @@
 [![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
 ---
+## Outputs for this exercise
+[Output After Fixing](https://github.com/rishabh1b/valgrind_exercise/blob/valgrind_exercise/output.txt)
+
+[Memory profiler output](https://github.com/rishabh1b/valgrind_exercise/blob/valgrind_exercise/valgrindOutput.png)
 
 ## Overview
 
